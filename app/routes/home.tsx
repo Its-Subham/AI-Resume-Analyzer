@@ -7,7 +7,7 @@ import {useEffect, useState} from "react";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "MyResumeAnalyzer" },
+    { title: "ResumGuide" },
     { name: "description", content: "Smart feedback for your resume and dream job!" },
   ];
 }
